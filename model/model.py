@@ -15,3 +15,25 @@ class SentimentModel:
         logits = outputs.logits
         predicted_class = torch.argmax(logits, dim=1).item()
         return "positive" if predicted_class == 1 else "negative"
+    
+    # pull -request
+        # pull -request
+            # pull -request
+                # pull -request
+                    # pull -request
+                        # pull -request
+                            # pull -request
+                                # pull -request
+                                    # pull -request
+                                        # pull -request
+    # pull -request
+        # pull -request
+            # pull -request
+                # pull -request
+                    # pull -request
+                        # pull -request
+                            # pull -request
+                                # pull -request
+                                    # pull -request
+                                        # pull -request
+                                        
